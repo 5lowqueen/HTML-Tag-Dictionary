@@ -1,0 +1,31 @@
+a: A tag for embedding other websites into yours.   
+ attributes: href
+ ex. <a href= http://www.pokemon.com</a>
+ 
+h1:A header tag, which makes the text bigger, and puts it on the next line. This is good for titles, or headings.
+ attributes: none 
+ ex. <h1>Audrey</h1>
+ 
+h2:A header tag, which makes the text bigger, and puts it on the next line. This is good for subtitles. It's smaller than h1.
+ attributes: none 
+ ex.<h2>Audrey</h2>
+ 
+img:A tag for embedding images from the internet. 
+ attributes: src
+ ex.<img scr="Bulbasaur.jpg">
+
+li:A tag for bullet points, making whatever neater. Your stuff won't look as confusing as it used to. 
+ attributes: none
+ ex.<li>Chicken nuggets</li>
+ 
+ol:A tag for ordered lists, using numbers, instead of bullet points. Your stuff won't look as confusing.
+ attributes:none
+ex.<ol>memes</ol>
+  
+p:A tag for paragraphs. This can help you separate your paragraphs, and it will be easier on the eyes. 
+ attributes: none
+ex.<p>I like YouTube.</p>
+ 
+ul:A tag for unordered lists. You put this before you start a list. This will be easier to figure out if it's a list or not, and it will be more organized! 
+ attributes: none
+ex.<ul> </ul> 
